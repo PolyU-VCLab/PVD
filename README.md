@@ -16,7 +16,6 @@ The Hong Kong Polytechnic University · OPPO Research Institute</p>
 <a href="https://github.com/PolyU-VCLab/PVD"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square" alt="Code"></a>
 <a href="https://huggingface.co/VCLab-PolyU/PVD"><img src="https://img.shields.io/badge/Checkpoints-Hugging%20Face-yellow?style=flat-square" alt="Checkpoints"></a>
 <a href="https://huggingface.co/papers/2610.08070"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Paper-HuggingFace-yellow" alt="HF Paper"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/Code%20License-Apache%202.0-green?style=flat-square" alt="Code license: Apache 2.0"></a>
 </p>
 
 </div>
@@ -25,9 +24,9 @@ The Hong Kong Polytechnic University · OPPO Research Institute</p>
 
 ## 📌 Quick Links
 
-[News](#news) · [Highlights](#highlights) · [Overview](#overview) · [Results](#results) · [Gallery](#gallery)
+[News](#news) · [Highlights](#highlights) · [Overview](#overview) · [Results](#results) · [Gallery](#gallery) · [Preparation](#preparation)
 
-[Preparation](#preparation) · [Training](#training) · [Inference](#inference) · [Contact](#contact) · [Citation](#citation) · [License](#license)
+[Training](#training) · [Inference](#inference) · [Contact](#contact) · [Citation](#citation) · [License](#license) · [Acknowledgements](#acknowledgements)
 
 If you find this repository helpful, please kindly give it a star ⭐.
 
@@ -386,6 +385,8 @@ If you find PVD useful, please consider citing our work:
 ## 📄 License
 
 Code is licensed under the [Apache License 2.0](LICENSE). Third-party code and components retain their respective licenses and copyright notices. Model weights are subject to the applicable upstream model licenses.
+
+<a id="acknowledgements"></a>
 
 ## 🙏 Acknowledgements
 
